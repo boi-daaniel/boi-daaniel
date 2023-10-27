@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jose Danielle Inocentes 19 Years old currently living in the Philippines, Cebu, Lapu-Lapu City.
+- 👋 Hi, I’m Jose Danielle Inocentes!
 - 👤 School Account
 
 <!---
