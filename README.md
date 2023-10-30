@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jose Danielle Inocentes!
+- 👋 Hi, I’m dannieboi!
 - 👤 School Account
 
 <!---
