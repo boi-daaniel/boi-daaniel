@@ -1,5 +1,5 @@
 - 👋 Hi, I’m dannieboi!
-- 👤 Bachelor of Science in Information Technology student
+- 👤 Currently studying Bachelor of Science in Information Technology
 
 <!---
 boi-daaniel/boi-daaniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
