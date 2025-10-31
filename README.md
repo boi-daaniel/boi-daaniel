@@ -1,4 +1,4 @@
-- 👋 BOMBOCLAAAAT!
+- 👋 Tamad pero may pangarap
 - 👤 Currently studying for a Bachelor of Science in Information Technology.
 <!---
 boi-daaniel/boi-daaniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
